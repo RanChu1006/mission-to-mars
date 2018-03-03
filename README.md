@@ -1,5 +1,5 @@
 # mission-to-mars
 
-java
+java.
 simulata two type rocket module, judge which is better.
-next could do simulate by step1. step2
+next could do simulate by step1. step2.
